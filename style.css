@@ -50,3 +50,63 @@ h3 {
     padding: 10px 20px;
 
 }
+
+#dream-text {
+    margin-left: 25px;
+}
+
+#dream-text p {
+    width: 85%;
+}
+
+.dream-section {
+    margin-left: 30px;
+    height: 400px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.exp-text {
+    font-size: 30px;
+    margin-left: 20px;
+    width: 20px;
+    font-weight: 700;
+}
+
+.experience-section {
+    width: 100%;
+    margin-bottom: 3%;
+    height: 400px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+.experience-text {
+    height: 200px;
+    width: 80%;
+
+}
+
+.single-experience {
+    box-shadow: 10px 20px 30px grey;
+    border-radius: 5px;
+    background-color: white;
+
+}
+
+.footer-section {
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: medium;
+}
+
+#web-dev {
+    border-left: 7px solid salmon;
+}
+
+#content-writer {
+    border-right: 7px solid blue;
+}
